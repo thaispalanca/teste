@@ -12,3 +12,5 @@ testanto coisas
 **negrito**
 
 linguagem markdown
+
+raw me mostra o código que gerou as coisas
